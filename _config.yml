@@ -1,0 +1,28 @@
+name: Whitebox Solutions
+favicon: null
+layout_spectrum: 0.6022531392518431
+typography_spectrum: 0.8083423576317728
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.4340304774232209
+  lightness: 0.6209513044450432
+  saturation: 0.6885559884831309
+  rhythmicContrast: 0.7788341885898262
+purpose: []
